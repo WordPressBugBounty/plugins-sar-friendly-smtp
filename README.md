@@ -1,0 +1,1 @@
+# plugins-sar-friendly-smtp
