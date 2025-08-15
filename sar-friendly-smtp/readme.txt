@@ -3,7 +3,7 @@ Contributors: samuelaguilera
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9E45TMW9JCPRW
 Tags: email, smtp, notifications, phpmailer, sendmail, wp_mail
 Requires at least: 4.9
-Tested up to: 6.5.2
+Tested up to: 6.8
 Stable tag: 1.2.6
 Requires PHP: 7.0
 License: GPLv3
